@@ -5,7 +5,7 @@ This repository contains the code of Pathfinding Visualizer. This application bu
 
 
 You can enjoy this visualization by access it here (use Google Chrome): 
-https://anjalikumawat2002.github.io/PathFinding-Visualizer/
+
 
 ## Algorithms
 
