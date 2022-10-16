@@ -5,6 +5,8 @@ This repository contains the code of Pathfinding Visualizer. This application bu
 
 
 You can enjoy this visualization by access it here (use Google Chrome): 
+https://sidrasa.github.io/pathVisualizer/
+
 
 
 ## Algorithms
